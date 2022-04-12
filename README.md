@@ -17,7 +17,7 @@
 
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=lanlaria)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=spazzhyunjun&theme=dark)](https://github.com/spazzhyunjun/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=spazzhyunjun&)](https://github.com/spazzhyunjun/github-readme-stats)
 
 ---
 
