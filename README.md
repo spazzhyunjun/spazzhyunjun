@@ -22,4 +22,4 @@
 ---
 
 
-![spazzhyunjun's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=spazzhyunjun&layout=compact&theme=dracula)
+![spazzhyunjun's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=spazzhyunjun&layout=compact&theme=white)
