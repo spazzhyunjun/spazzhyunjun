@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logoColor=white"/>
+![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logoColor=white)
 <!--
 **spazzhyunjun/spazzhyunjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
