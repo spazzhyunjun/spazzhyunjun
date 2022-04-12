@@ -13,9 +13,9 @@
 
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lanlaria&theme=dark)](https://solved.ac/lanlaria)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lanlaria)](https://solved.ac/lanlaria)
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=lanlaria&theme=dark)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=lanlaria)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=spazzhyunjun&theme=dark)](https://github.com/spazzhyunjun/github-readme-stats)
 
