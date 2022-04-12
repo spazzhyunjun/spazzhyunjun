@@ -5,4 +5,5 @@
 
 Here are some ideas to get you started:
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lanlaria)](https://solved.ac/lanlaria)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lanlaria)](https://solved.ac/lanlaria)
