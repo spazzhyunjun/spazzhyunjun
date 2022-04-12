@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&section=header&text="SpazzHyunJun"&fontSize=70&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=wave&color=000000&height=120&section=header&text="SpazzHyunJun"&fontSize=70&fontColor=FFFFFF)
 
 ---
 
